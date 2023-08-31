@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/RajPratapYadav/todo_list.git/static/css/main.6ff876f8.css",
+    "main.js": "/RajPratapYadav/todo_list.git/static/js/main.e9b10aa6.js",
+    "static/js/787.a5cad257.chunk.js": "/RajPratapYadav/todo_list.git/static/js/787.a5cad257.chunk.js",
+    "index.html": "/RajPratapYadav/todo_list.git/index.html",
+    "main.6ff876f8.css.map": "/RajPratapYadav/todo_list.git/static/css/main.6ff876f8.css.map",
+    "main.e9b10aa6.js.map": "/RajPratapYadav/todo_list.git/static/js/main.e9b10aa6.js.map",
+    "787.a5cad257.chunk.js.map": "/RajPratapYadav/todo_list.git/static/js/787.a5cad257.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ff876f8.css",
+    "static/js/main.e9b10aa6.js"
+  ]
+}
